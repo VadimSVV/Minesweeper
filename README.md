@@ -1,1 +1,1 @@
-<a href="https://minesweeper.online" target="_blank">Сапер</a>
+<a href="https://minesweeper.one" target="_blank">Сапер</a>
